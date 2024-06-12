@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://cv-Mohamed-Zoubli.vercel.app/$1",
+      "destination": "https://portfolio-Mohamed-Zoubli.vercel.app/$1",
       "permanent": true
     }
   ]
