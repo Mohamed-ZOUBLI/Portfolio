@@ -1,5 +1,5 @@
 ---
-title: 'Project 1'
+title: 'Projet 2'
 description: ' porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
 image:
     url: '/GreenTwins-Logo.png'

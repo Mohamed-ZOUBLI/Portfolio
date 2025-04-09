@@ -1,5 +1,5 @@
 ---
-title: 'Project 4'
+title: 'Projet 4'
 description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
 image:
     url: '/GitHub.webp'
