@@ -10,7 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.6.1",
-    "remark-smartypants": "^1.0.0"
+    "astro": "^4.0.0"
   }
 }
