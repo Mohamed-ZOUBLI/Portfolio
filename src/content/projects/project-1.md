@@ -1,18 +1,18 @@
 ---
-title: 'Project 1'
+title: 'DataGrowb'
 description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
 image:
-    url: '/.netlify/images?url=/images/GitHub.webp'
+    url: '/images/GreenTwins-Logo.png'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/.netlify/images?url=/images/image-1.webp'
+    url: '/images/image-1.webp'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/.netlify/images?url=/images/image-2.webp'
+    url: '/images/image-2.webp'
     alt: 'second image of your project.'
 platform: Web
 stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
+website: https://www.datagrowb.com
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
