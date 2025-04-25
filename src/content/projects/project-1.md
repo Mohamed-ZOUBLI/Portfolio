@@ -3,18 +3,36 @@ title: 'DataGrowb'
 description: 'DataGrowb’ est une entreprise à la pointe des innovations et des technologies disruptives.'
 image:
     url: '/images/GreenTwins-Logo.png'
-    alt: 'GitHub wallpaper'
+    alt: 'GreednTwins-Logo'
 platform: Web
 stack: Figma, React(bibliothèque open source JavaScript), Draw.io(schémas).
 website: https://www.datagrowb.com
 github: datagrowb
 ---
 
-DataGrowb’ est une entreprise à la pointe des innovations et des technologies disruptives.
+Fondée en 2018, DataGrowb’ est une société de conseil et de services numériques axée sur l’intelligence artificielle (IA), le Big Data et le développement d’applications intelligentes. Elle accompagne les entreprises dans leur transformation numérique en proposant des solutions sur mesure, de la stratégie à l’industrialisation.​
 
-L'entreprise développe des solutions d’algorithmie DATA et IA agissant sur toute la chaîne de valorisation de la donnée (de la création de la donnée à la création de la valeur), avec un positionnement sur 3 valeurs fondamentales : métier, explicabilité, et viabilité.
+<h4>Domaines d'expertise</h4>
 
-DataGrowb’ a forgé son expertise au travers de la collaboration avec des acteurs majeurs dans différents domaines, allant du e-commerce, Retail aux assurances, finances et expertise comptable.
+- Stratégie Data & IA : élaboration de stratégies data-driven pour optimiser les performances des entreprises.
+
+- Développement d'algorithmes : conception d'algorithmes prédictifs, d'optimisation et d'automatisation adaptés aux besoins métiers.
+
+- Infrastructure & Déploiement : mise en place d'infrastructures scalables et déploiement de solutions IA en production.
+
+- Formation & Conseil : programmes de formation en IA, Big Data et Data Science pour étudiants, professionnels et entreprises.​
+
+<h4>Approche et valeurs</h4>
+
+DataGrowb’ adopte une approche centrée sur l'humain, l'éthique et la viabilité économique. Elle prône la complémentarité entre l'intelligence humaine et l'IA, en mettant l'accent sur des solutions explicables et économiquement viables. L'entreprise s'engage à contextualiser chaque projet en fonction des enjeux métiers spécifiques de ses clients.​
+
+<h4>Équipe</h4>
+
+L'équipe de DataGrowb’ est pluridisciplinaire, composée de data scientists, développeurs, experts en IA et professionnels du marketing. Cette diversité permet de couvrir l'ensemble de la chaîne de valorisation des données, de la collecte à l'exploitation stratégique.​
+
+<h4>Implantation</h4>
+
+Basée à Nantes, DataGrowb’ intervient également à Paris et dans toute la France. Elle travaille avec des PME, des grands groupes internationaux et des institutions publiques, offrant des services adaptés à divers secteurs d'activité.
 
 ---
 <h1>Contexte</h1>
