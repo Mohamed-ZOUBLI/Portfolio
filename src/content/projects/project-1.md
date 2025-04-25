@@ -4,12 +4,6 @@ description: 'DataGrowb’ est une entreprise à la pointe des innovations et de
 image:
     url: '/images/GreenTwins-Logo.png'
     alt: 'GitHub wallpaper'
-worksImage1:
-    url: '/images/image-1.webp'
-    alt: 'first image of your project.'
-worksImage2:
-    url: '/images/image-2.webp'
-    alt: 'second image of your project.'
 platform: Web
 stack: Figma, React(bibliothèque open source JavaScript), Draw.io(schémas).
 website: https://www.datagrowb.com
@@ -53,7 +47,7 @@ Collaboration au sein d’une équipe pluridisciplinaire (développeurs, designe
 
     - Ajout de commentaires explicatifs pour chaque graphique.
 
-<img src="/images/maquette.png" role="presentation" width="600" height="300" decoding="async">
+<img src="/images/maquette.png" role="presentation" width="700" height="350" decoding="async">
 
 
 🤝 Gestion de Projet Agile
@@ -71,8 +65,8 @@ Collaboration au sein d’une équipe pluridisciplinaire (développeurs, designe
 
 ✅ Techniques : Structuration d’interfaces complexes, compréhension des enjeux RSE.
 
-<img src="/images/renduepage.png" role="presentation" width="600" height="300" decoding="async">
-<img src="/images/résultat.png" role="presentation" width="600" height="300" decoding="async">
+<img src="/images/renduepage.png" role="presentation" width="700" height="350" decoding="async">
+<img src="/images/résultat.png" role="presentation" width="700" height="350" decoding="async">
 
 ---
 
