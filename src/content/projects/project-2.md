@@ -61,6 +61,8 @@ Gestion complète de 7 sites WordPress pour divers clients (SAPPEL, CDCE, Foyer 
 
     - Résolution de problèmes d'affichage mobile
 
+Une tâche à aussi était d'installer sur le surface d'un client windows 11 car il y a eu des problèmes de sécuriter sur l'appareil en question
+
 <h3>✉ Gestion de Newsletters</h3>
 
 - Création et suivi via MailJet (150+ envois/mois)
@@ -68,8 +70,6 @@ Gestion complète de 7 sites WordPress pour divers clients (SAPPEL, CDCE, Foyer 
 - Analyse des stats (taux d'ouverture : 54%, clics : 4.7%)
 
 <img src="/images/mailjet.png" role="presentation" width="700" height="350" decoding="async">
-
-Une tâche à aussi était d'installer sur le surface d'un client windows 11 car il y a eu des problèmes de sécuriter sur l'appareil en question
 
 ---
 
