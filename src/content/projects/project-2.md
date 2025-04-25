@@ -69,6 +69,8 @@ Gestion complète de 7 sites WordPress pour divers clients (SAPPEL, CDCE, Foyer 
 
 <img src="/images/mailjet.png" role="presentation" width="700" height="350" decoding="async">
 
+Une tâche à aussi était d'installer sur le surface d'un client windows 11 car il y a eu des problèmes de sécuriter sur l'appareil en question
+
 ---
 
 <h2>Projets Marquants</h2>
