@@ -5,7 +5,7 @@ image:
     url: '/images/acck.jpg'
     alt: 'Acck logo'
 platform: Web
-stack: Wordpress, CSS
+stack: Wordpress, CSS, Mailjet, Filezila
 website: https://site.acck.fr
 github: Acck
 ---
@@ -38,3 +38,82 @@ ACCK a accompagné de nombreuses structures telles que Sappel, CDCE, Foyer Jésu
 <h1>Contexte</h1>
 
 Gestion complète de 7 sites WordPress pour divers clients (SAPPEL, CDCE, Foyer Jésus Marie, etc.), incluant migrations, refontes et optimisations techniques. Mais j'ai aussi eu d'autre tâche hors utilisation de WordPress tout aussi instructif.
+
+---
+
+<h2>Missions</h2>
+
+<h3>🔧 Maintenance & Développement WordPress</h3>
+
+- Migration de contenus : Transfert de 200+ articles entre sites avec nettoyage des métadonnées
+
+- Refontes structurelles :
+
+    - Nouveaux footers unifiés
+
+    - Pages tarifs responsive (Foyer Jésus Marie)
+
+    - Optimisation des templates d'articles
+
+- Corrections CSS/UX :
+
+    - Adaptation aux chartes graphiques
+
+    - Résolution de problèmes d'affichage mobile
+
+<h3>✉ Gestion de Newsletters</h3>
+
+- Création et suivi via MailJet (150+ envois/mois)
+
+- Analyse des stats (taux d'ouverture : 54%, clics : 4.7%)
+
+<img src="/images/mailjet.png" role="presentation" width="700" height="350" decoding="async">
+
+---
+
+<h2>Projets Marquants</h2>
+
+<h3>1. Refonte CDCE</h3>
+
+- Migration vers ACCK
+
+- Correction des composants :
+
+    - Boutons "Suite" sur les actualités
+
+    - Harmonisation des couleurs (chartes graphiques)
+
+    - Suppression des éléments superflus (auteurs, dates)
+
+    - Création et modification de page
+
+    - Réparer les liens mal importer 
+
+<img src="/images/cdce-page.png" role="presentation" width="750" height="350" decoding="async">
+<img src="/images/cdce-layout.png" role="presentation" width="750" height="350" decoding="async">
+<img src="/images/cdce-media.png" role="presentation" width="750" height="350" decoding="async">
+
+
+<h3>2. Optimisation Foyer Jésus Marie</h3>
+
+- Tableaux tarifs : Scroll horizontal pour mobile
+
+- Stratégie contenu : Mise en avant des avantages vs. prix
+
+<img src="/images/foyer-jesus-tarif.png" role="presentation" width="500" height="450" decoding="async">
+
+<h3>3. Audit ACSO</h3>
+
+- Gestion de médias : 50+ photos numérotées et référencées
+
+- Création de comptes utilisateurs (adhérents, sociétaires)
+
+---
+
+<h3>Compétences Acquises</h3>
+
+✅ Gestion de CMS(Content Management System) : Migration, plugins, templates
+
+✅ Analyse data : Statistiques newsletters
+
+✅ Coordination : Travail avec designers et rédacteurs
