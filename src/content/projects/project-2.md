@@ -117,3 +117,7 @@ Gestion complète de 7 sites WordPress pour divers clients (SAPPEL, CDCE, Foyer 
 ✅ Analyse data : Statistiques newsletters
 
 ✅ Coordination : Travail avec designers et rédacteurs
+
+<h2>L'équipe qui ma accueillie</h2>
+
+<img src="/images/équipe-acck.png" role="presentation" width="700" height="400" decoding="async">
